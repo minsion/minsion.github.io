@@ -2,4 +2,4 @@
 
 [预览](https://minsion.github.io/vue3-admin-vite/#/login)
 
-<img src="./images/1.png" width="50%" />
+<img src="./images/1.png" width="50%" target="_blank" />
