@@ -1,5 +1,5 @@
-## 1.vue3-admin-vite management sysment preview link
+## 1.vue3-admin-vite 后台管理系统
 
-[https://minsion.github.io/vue3-admin-vite/#/login](https://minsion.github.io/vue3-admin-vite/#/login)
+[预览](https://minsion.github.io/vue3-admin-vite/#/login)
 
 <img src="./images/1.png" width="50%" />
