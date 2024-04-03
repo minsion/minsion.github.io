@@ -250,7 +250,7 @@ figure {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: bottom center;
-        min-height: 1300px;
+        min-height: 400px;
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
@@ -301,7 +301,7 @@ figure {
           margin-bottom: 20px;
           font-size: 60px;
           line-height: 1.3;
-          color: #fff;
+          color: black;
           font-weight: 700; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
@@ -335,8 +335,8 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #fff;
-            border: 1px solid #fff;
+            color: #000;
+            border: 1px solid #000;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
