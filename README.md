@@ -1,23 +1,23 @@
-## 1.blog
+### 1.vue-admin
 
-[在线预览](https://minsion.github.io/me/)
+### 2.开发
 
-<img src="./static/me.png" width="90%" />
+```bash
+# 安装依赖
+npm  install
 
-## 2.react-admin-vite 后台管理系统
+# 启动服务
+npm run start
+```
 
-[在线预览](https://minsion.github.io/react-admin-vite)
+### 3.在线预览
+[在线预览](https://minsion.github.io/vue-admin)
 
-<img src="./static/react-admin-vite.png" width="90%" />
 
-## 3.vue3-admin-vite 后台管理系统
+### 4.项目预览图
+![preview1.png](./public/1.png)
 
-[在线预览](https://minsion.github.io/vue3-admin-vite/#/login)
 
-<img src="./static/vue3-admin-vite.png" width="90%" />
+### 4、 💕 感谢 Star
+小项目获取 star 不易，如果你喜欢这个项目的话，欢迎支持一个 star！
 
-## 4.angular-admin 后台管理系统
-
-[在线预览](https://minsion.github.io/angular-admin)
-
-<img src="./static/react-admin-vite.png" width="90%" />
